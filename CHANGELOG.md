@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.0.1](https://github.com/gravity-ui/uikit/compare/v7.0.0...v7.0.1) (2025-02-05)
+
+
+### Bug Fixes
+
+* **i18n:** use correct keyset type ([#2085](https://github.com/gravity-ui/uikit/issues/2085)) ([5d34c33](https://github.com/gravity-ui/uikit/commit/5d34c338356d5bb6e84654ab8529ed354e48549c))
+
 ## [7.0.0](https://github.com/gravity-ui/uikit/compare/v6.42.0...v7.0.0) (2025-02-04)
 
 
